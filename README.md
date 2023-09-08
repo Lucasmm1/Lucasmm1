@@ -5,8 +5,6 @@
 <h3 align="center">Estudante de Engenharia de Computação</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmm1&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmm1" /> </p>
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=lucasmm01&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmm01&show_icons=true&theme=radical&layout=compact" />
@@ -42,7 +40,7 @@
 
 #### Databases:
 
-![MySQL](https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
 &nbsp;
 &nbsp;
