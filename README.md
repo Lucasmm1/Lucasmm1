@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://github.com/Lucasmm1/Lucasmm1/)
 <h1 align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=noto+sans+japanese&duration=4000&pause=1000&width=435&lines=Ol%C3%A1!;Eu+sou+Lucas+Machado" alt="Typing SVG" /></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=noto+sans+japanese&duration=4000&pause=1000&width=435&lines=Ol%C3%A1!;Eu+sou+Lucas+Machado" alt="Typing SVG" />
 </h1>
 <h3 align="center">Estudante de Engenharia de Computação</h3>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasmm1&label=Profile%20views&color=0e75b6&style=flat" alt="lucasmm1" /> </p>-->
